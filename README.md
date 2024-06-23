@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=00296b&text=&animation=twinkling&height=90)
+[![TypingSVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=40&duration=3500&pause=3&color=00296b&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=80&lines=Welcome+to+Seoryeong's+GitHub!🌟)](https://git.io/typing-svg)
 <!--
 **ryeongseo/ryeongseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
