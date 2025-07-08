@@ -7,9 +7,7 @@
 
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-      Contact me 
-    </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
     <a href="mailto:tjfud1025@gmail.com"> 
       <img src="https://img.shields.io/badge/Gmail-tjfud1025@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
@@ -19,11 +17,10 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
     <div style="text-align: left;"> <a href=https://thread-mum-0f7.notion.site/Seoryeong-Kim-2736ed5365a34cc3b2dc3a9ebb595813> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thread-mum-0f7.notion.site/Seoryeong-Kim-2736ed5365a34cc3b2dc3a9ebb595813"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left;">  
+</div> 
 
  </div> 
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Skills </h2>  
     <div style="margin: ; text-align: left;" "text-align: left;"> 
