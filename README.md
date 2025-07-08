@@ -22,4 +22,6 @@
          <a href=mailto:tjfud1025@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjfud1025@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    
+
+
+![](https://capsule-render.vercel.app/api?type=waving&color=00296b&text=&animation=twinkling&height=90&reversal=true)
