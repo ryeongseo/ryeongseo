@@ -16,7 +16,7 @@
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
-    <div style="text-align: left;"> <a href=https://thread-mum-0f7.notion.site/Seoryeong-Kim-2736ed5365a34cc3b2dc3a9ebb595813> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thread-mum-0f7.notion.site/Seoryeong-Kim-2736ed5365a34cc3b2dc3a9ebb595813"> </a>
+    <div style="text-align: left;"> <a href=https://thread-mum-0f7.notion.site/seoryeong-kim> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://thread-mum-0f7.notion.site/Seoryeong-Kim-2736ed5365a34cc3b2dc3a9ebb595813"> </a>
     <div style="text-align: left;">  
 </div> 
 
