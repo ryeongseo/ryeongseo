@@ -37,3 +37,50 @@
           </div>
     </div>
 
+ </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>  
+<table>
+  <thead>
+    <tr>
+      <th align="center">기간</th>
+      <th align="center">기관</th>
+      <th align="center">내용</th>
+      <th align="center">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2021.02~</td>
+      <td align="center">국민대학교</td>
+      <td align="center">AI빅데이터융합경영학과</td>
+      <td align="center">제1전공</td>
+    </tr>
+    <tr>
+      <td align="center">2021.02~</td>
+      <td align="center">국민대학교</td>
+      <td align="center">소프트웨어전공</td>
+      <td align="center">부전공</td>
+    </tr>
+    <tr>
+      <td align="center">2021 ~ 2023</td>
+      <td align="center">국민대학교</td>
+      <td align="center">AI빅데이터분석학회 D&amp;A</td>
+      <td align="center">학회원</td>
+    </tr>
+    <tr>
+      <td align="center">2024</td>
+      <td align="center">국민대학교</td>
+      <td align="center">AI빅데이터분석학회 D&amp;A</td>
+      <td align="center">학회장</td>
+    </tr>
+    <tr>
+      <td align="center">2024 ~ 2025</td>
+      <td align="center">국민대학교</td>
+      <td align="center">인공지능학회 X:AI</td>
+      <td align="center">학회원</td>
+    </tr>
+  </tbody>
+</table>
+ </div> 
