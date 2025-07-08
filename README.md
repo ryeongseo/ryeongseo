@@ -6,11 +6,14 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I aspire to be an AI Developer.<br> I am currently majoring in AI Big Data and Management, with a minor in Software.<br> My specific area of interest is speech. </div> 
 
 </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>  
-         <a href=mailto:tjfud1025@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjfud1025@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+      Contact me 
+    </h2>
+    <a href="mailto:tjfud1025@gmail.com"> 
+      <img src="https://img.shields.io/badge/Gmail-tjfud1025@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
 
 </div>
     <div style="text-align: left;">
