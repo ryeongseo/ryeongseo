@@ -3,7 +3,7 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I aspire to be an AI Developer.<br> I am currently majoring in AI Big Data and Management, with a minor in Software.<br> My specific area of interest is speech. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I aspire to be an AI Developer.<br> I am currently majoring in AI Big Data and Management/Data Science. <br> My specific area of interest is speech. </div> 
 
 </div>
 <div style="text-align: left;">
