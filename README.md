@@ -61,7 +61,7 @@
       <td align="center">융합전공</td>
     </tr>
     <tr>
-      <td align="center">2021 ~ 2023</td>
+      <td align="center">2022 ~ 2023</td>
       <td align="center">국민대학교</td>
       <td align="center">AI빅데이터분석학회 D&amp;A</td>
       <td align="center">학회원</td>
