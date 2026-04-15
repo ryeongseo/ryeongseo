@@ -57,8 +57,8 @@
     <tr>
       <td align="center">2021.02~</td>
       <td align="center">국민대학교</td>
-      <td align="center">소프트웨어전공</td>
-      <td align="center">부전공</td>
+      <td align="center">데이터사이언스융합전공</td>
+      <td align="center">융합전공</td>
     </tr>
     <tr>
       <td align="center">2021 ~ 2023</td>
